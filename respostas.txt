@@ -1,0 +1,10 @@
+1.	O que faz o NavigationContainer?
+Resposta: 
+O NavigationContainer é um componente da biblioteca React Navigation, sendo o responsável por comandar o estado de navegação do aplicativo e gerenciar toda a estrutura de telas.
+
+2.	Qual a função do createNativeStackNavigator?
+Resposta: 
+O createNativeStackNavigator é outro componente da biblioteca React Navigation e sua função é criar a navegação baseada em uma lista, chamada stack, onde as telas são “empilhadas” uma sobre a outra em sequência para criar um fluxo linear. 
+3.	Como navegar entre telas?
+Resposta: 
+No Windows você pode utilizar atalhos e comandos do teclado e do próprio computador. No celular você simplesmente desliza pela tela ou clica no ícone que parece um quadrado para ver todas as telas que estão abertas. Já para programar você geralmente usa a biblioteca React Navigation para gerenciar as telas.
